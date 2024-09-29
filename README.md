@@ -8,7 +8,7 @@
 3. [Tribonacci Number](https://leetcode.com/problems/tribonacci-number/)
 4. [Count Number of Hops](https://www.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1)
 5. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-6. [Minimum Cost Climbing Stairs](https://leetcode.com/problems/minimum-cost-climbing-stairs/)
+6. [Minimum Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)
 7. [House Robber](https://leetcode.com/problems/house-robber/)
 8. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 9. [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)
