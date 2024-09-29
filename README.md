@@ -6,7 +6,7 @@
 1. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 2. [Consecutive Ones Not Allowed](https://leetcode.com/problems/consecutive-ones-not-allowed/)
 3. [Tribonacci Number](https://leetcode.com/problems/tribonacci-number/)
-4. [Count Number of Hops](https://leetcode.com/problems/count-number-of-hops/)
+4. [Count Number of Hops](https://www.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1)
 5. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 6. [Minimum Cost Climbing Stairs](https://leetcode.com/problems/minimum-cost-climbing-stairs/)
 7. [House Robber](https://leetcode.com/problems/house-robber/)
