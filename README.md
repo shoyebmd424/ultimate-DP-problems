@@ -12,7 +12,7 @@
 7. [House Robber](https://leetcode.com/problems/house-robber/)
 8. [House Robber II](https://leetcode.com/problems/house-robber-ii/)
 9. [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)
-10. [Minimum Steps To Minimize N As Per Given Condition](https://leetcode.com/problems/minimum-steps-to-minimize-n-as-per-given-condition/)
+10. [Minimum Steps To Minimize N As Per Given Condition](https://www.geeksforgeeks.org/problems/minimum-steps-to-minimize-n-as-per-given-condition0618/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
 11. [Maximize The Cut Segments](https://leetcode.com/problems/maximize-the-cut-segments/)
 12. [Geek Jump](https://leetcode.com/problems/geek-jump/)
 13. [Geek Jump With K Steps](https://leetcode.com/problems/geek-jump-with-k-steps/)
