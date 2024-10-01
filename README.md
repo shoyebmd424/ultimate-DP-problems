@@ -14,7 +14,7 @@
 9. [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower/)
 10. [Minimum Steps To Minimize N As Per Given Condition](https://www.geeksforgeeks.org/problems/minimum-steps-to-minimize-n-as-per-given-condition0618/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
 11. [Maximize The Cut Segments](https://www.geeksforgeeks.org/problems/cutted-segments1642/1)
-12. [Geek Jump](https://leetcode.com/problems/geek-jump/)
+12. [Geek Jump](https://www.geeksforgeeks.org/problems/geek-jump/0)
 13. [Geek Jump With K Steps](https://leetcode.com/problems/geek-jump-with-k-steps/)
 14. [Taking Maximum Energy From The Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/)
 15. [Minimum Number of Coins for Fruits](https://leetcode.com/problems/minimum-number-of-coins-for-fruits/)
