@@ -163,3 +163,39 @@
 142. [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/)
 143. [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)
 144. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+
+## Sliding Window Techniques
+
+### Fixed Sliding Window
+1. **Maximum Sum of K Consecutive Elements**
+
+2. **First Negative Integer in Every Window of Size K**
+
+3. **Average of Subarrays of Size K**
+
+### Dynamic Sliding Window
+1. **Smallest Subarray with a Given Sum**
+
+2. **Longest Substring with K Distinct Characters**
+
+3. **Fruits into Baskets**
+
+### Caterpillar Method
+1. **Number of Subarrays with Sum Equals K**
+
+2. **Longest Subarray with Sum Less than or Equal to K**
+
+3. **Subarray Product Less than K**
+
+### Expanding/Shrinking Sliding Window
+1. **Longest Substring Without Repeating Characters**
+
+2. **Longest Substring with At Most Two Distinct Characters**
+
+3. **Permutation in String**
+
+4. **Minimum Window Substring**
+
+5. **Longest Repeating Character Replacement**
+
+6. **Find All Anagrams in a String**
